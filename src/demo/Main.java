@@ -4,5 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Jessi er en skildpadde");
+        System.out.println();
     }
 }
